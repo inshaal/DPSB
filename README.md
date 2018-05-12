@@ -1,2 +1,3 @@
-# dpsb12
-DPSB Class 12 Files
+# DPSB Files : All DPS Bhilai Files I've used
+
+Class 11 and 12 important files.
